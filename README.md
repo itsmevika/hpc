@@ -3,11 +3,17 @@ genetic algorithm
 На вход подаем:
 
 const int NumberOfPoint = 500; //количество точек
+
 const int NumberOfIndividov = 1000; //кол-во индивидов в выборке
+
 const int MathMutation = 5; //мутации 
+
 const double dispersionMutation = 5.0f; //максимальная мутация
+
 const int powCount = 3; - степень полинома
+
 const double randMaxCount = 20.0f; //максимальный разброс рандома
+
 const int KolOfPokoleni = 30; //максимальное кол-во поколений
 
 Задача алгоритма: 
